@@ -2,11 +2,11 @@
 	<rss version="2.0">
 		<channel>
 			<title>Vroom Vista</title>
-			<link></link>
+			<link>https://vukasin-antic.github.io/VroomVista/index.html</link>
 			<description>Vesti sa našeg sajta</description>
 			<item>
 				<title>Specijalna ponuda</title>
-				<link></link>
+				<link>https://vukasin-antic.github.io/VroomVista/index.html</link>
 				<description>Ponuda važi do 31.12.2023. godine. Uživajte uz neograničenu kilometražu, bez skrivenih troškova.</description>
 			</item>
 		</channel>

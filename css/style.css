@@ -334,9 +334,10 @@ summary:hover{
 	color: #fff;
 }
 .klijenti-blok img{
-	width: 70px;
+	width: 100px;
 	margin: 10px auto;
 	display: block;
+	border-radius: 50%;
 }
 .klijenti-blok p{
 	text-align: justify;
